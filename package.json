@@ -12,6 +12,16 @@
     "type": "git",
     "url": "git+https://github.com/stanislavt/yamlenv.git"
   },
+  "keywords": [
+    "dotenv",
+    "env",
+    "yamlenv",
+    "environment",
+    "variables",
+    "config",
+    "settings"
+  ],
+  "readmeFilename": "README.md",
   "author": "Stanislav Tarasenko",
   "license": "MIT",
   "bugs": {

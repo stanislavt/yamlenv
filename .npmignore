@@ -1,0 +1,5 @@
+.nyc_output/
+tests/
+.editorconfig
+.npmignore
+.travis.yml
